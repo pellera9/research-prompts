@@ -35,7 +35,7 @@ The report has a stable structure:
 
 The default subtitle is:
 
-> Compiled by Todd Austin (with help from his AI-based Web/YouTube subject scraper).
+> Compiled by the dossier-generator prompt, created by Todd Austin @ https://github.com/toddmaustin/research-prompts.
 
 For reuse by another researcher, override that attribution explicitly. No other author information is inferred.
 

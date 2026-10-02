@@ -21,7 +21,7 @@ DEFAULTS (NO EDIT REQUIRED)
 - Audience: an average technical reader; explain specialized terms without diluting technical substance.
 - Scope: public information available through the actual date of this scan; retain relevant historical context.
 - Title: "<TOPIC> — Public Research Dossier"; shorten an unwieldy topic into a descriptive title.
-- Subtitle: "Compiled by Todd Austin (with help from his AI-based Web/YouTube subject scraper)."
+- Subtitle: "Compiled by the dossier-generator prompt, created by Todd Austin @ https://github.com/toddmaustin/research-prompts."
 - Format: a polished DOCX plus an equivalent Markdown source when file generation is available; otherwise the complete dossier in Markdown.
 - Length: as long as needed for substantive coverage, with concise standalone bullets and no repetitive padding.
 
